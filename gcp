@@ -1,4 +1,5 @@
 
 x=7
 y=10
-
+z=x+y
+the final output is z
